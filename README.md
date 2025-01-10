@@ -13,7 +13,7 @@ Diagnose your Docker Desktop installation
 
 To determine if you need to download and reinstall Docker Desktop, please follow the steps below.
 
-1. Download the attached  file, rename it to , and set the executable flag with . (Caution: it is never a good idea to just run shell scripts downloaded from the internet. Please take a moment to review the script before executing it.)
+1. Download the attached  file check.sh.txt, rename it to check.sh , and set the executable flag with . (Caution: it is never a good idea to just run shell scripts downloaded from the internet. Please take a moment to review the script before executing it.)
 2. Execute the following command to verify the binary in your Docker.app application bundle. The script will exit with 0 if the certificate was correctly verified:
    ```sh
    $ ./check.sh /Applications/Docker.app/Contents/Library/LaunchServices/com.docker.vmnetd
