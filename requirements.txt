@@ -1,0 +1,2 @@
+# requirements.txt echo # No external dependencies for now
+# requirements.txt echo # No external dependencies for now
